@@ -1,2 +1,3 @@
 EndpointDetails
 SetupInstructions
+RequestFormats
