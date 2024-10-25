@@ -1,3 +1,4 @@
 EndpointDetails
 SetupInstructions
 RequestFormats
+EndpointWorkflow
