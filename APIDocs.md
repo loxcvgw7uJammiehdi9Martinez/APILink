@@ -3,3 +3,4 @@ APIStructure
 APIEndpoints
 DependenciesList
 CodeExamples
+ContributionGuide

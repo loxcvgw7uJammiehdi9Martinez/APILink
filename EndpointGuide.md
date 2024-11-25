@@ -3,3 +3,4 @@ SetupInstructions
 RequestFormats
 EndpointWorkflow
 ConfigSettings
+CommunityRules
