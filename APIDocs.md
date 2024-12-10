@@ -4,3 +4,4 @@ APIEndpoints
 DependenciesList
 CodeExamples
 ContributionGuide
+ErrorHandling
