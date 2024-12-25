@@ -4,3 +4,4 @@ RequestFormats
 EndpointWorkflow
 ConfigSettings
 CommunityRules
+LicenseDetails

@@ -5,3 +5,4 @@ DependenciesList
 CodeExamples
 ContributionGuide
 ErrorHandling
+LegalNotes
