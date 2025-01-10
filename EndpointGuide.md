@@ -5,3 +5,4 @@ EndpointWorkflow
 ConfigSettings
 CommunityRules
 LicenseDetails
+APIFAQ
