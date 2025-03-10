@@ -8,3 +8,4 @@ LicenseDetails
 APIFAQ
 EndpointUpdates
 EndpointOptimization
+CommunityResources
